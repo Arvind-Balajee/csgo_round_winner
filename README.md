@@ -4,7 +4,7 @@ CSGO round winner prediction
 
 # Prerequisites:
 ## Packages need to be installed: (to install these packages: pip install package-name)
-numpy
+numpy \n
 pandas
 matplotlib
 sklearn
