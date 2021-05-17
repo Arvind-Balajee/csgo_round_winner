@@ -1,5 +1,4 @@
-# csgo_round_winner
-CSGO round winner prediction
+# CSGO round winner prediction
 
 
 # Prerequisites:
